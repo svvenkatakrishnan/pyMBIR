@@ -1,0 +1,13 @@
+
+# compiled files
+*.o
+*.so
+
+# sublime text config
+sftp-config.json
+
+# macos hidden file
+*.DS_Store
+
+# Pycharm idea folder
+.idea/
