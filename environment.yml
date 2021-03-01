@@ -1,0 +1,14 @@
+name: pymbir
+channels:
+  # - astra-toolbox
+  - astra-toolbox/label/dev
+dependencies:
+  - python<=3.6
+  - astra-toolbox
+  - futures
+  - pip
+  - pip:
+    - numpy
+    - scipy
+    - matplotlib
+    - psutil
