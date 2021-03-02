@@ -7,7 +7,7 @@ from pyMBIR.reconEngine import analytic,MBIR
 import tomopy
 from matplotlib import pyplot as plt 
 
-fname = '/hdd1_4tb/data/tomobank/tomo_00001_to_00006/tomo_00001/tomo_00001.h5'
+fname = 'tomobank/tomo_00001_to_00006/tomo_00001/tomo_00001.h5'
 disp_op=True
 start = 1000 #start slice 
 end = 1004 #end slice 
