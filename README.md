@@ -27,7 +27,7 @@ Installation
 
 2) Run ```conda activate pymbir```
 
-3) From the base folder, run ```pip install .```
+3) From the base folder, run ```python setup.py install```
 
 
 Getting started
