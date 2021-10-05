@@ -23,11 +23,12 @@ gcc
 Installation
 =============
 
-1) Install the above packages (```conda env create -f environment.yml --name pymbir python=3.6``` creates a fresh conda environment with the dependencies installed)
+1) Install the above packages (```conda env create -f environment.yml --name pymbir python=3.7``` creates a fresh conda environment with the dependencies installed)
 
-2) Compile the code in source/prior_model folder by cd-ing and running make
+2) Run ```conda activate pymbir```
 
-3) Add the pyMBIR directory to your PYTHONPATH 
+3) From the base folder, run ```pip install .```
+
 
 Getting started
 =============
