@@ -33,7 +33,7 @@ miscalib['delta_v']=0
 miscalib['phi']=0
 
 rec_params={}
-rec_params['gpu_index']=[0,1]
+rec_params['gpu_index']=gpu_device
 rec_params['num_iter']=max_iter
 rec_params['MRF_P']=MRF_P
 rec_params['MRF_SIGMA']=MRF_SIGMA
